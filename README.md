@@ -65,4 +65,4 @@ By adopting **Databricks Auto Loader** and redesigning the pipeline with **incre
 
 ## Architecture Diagram
 
-![Diagrama da Arquitetura](docs/diagram_arq.png)
+![Diagrama da Arquitetura](docs/diagram_arq.drawio.png)
